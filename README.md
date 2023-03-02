@@ -1,4 +1,6 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <img src="hello-animated.svg" style="width: 100%;" alt="Hello everyone">
+</div>
 
 <!--
 **RangeKing/RangeKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
